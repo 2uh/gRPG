@@ -1,6 +1,7 @@
 /**
  * Created by Alex on 3/4/2017.
  * Represents garfield in battle.
+ * blah
  */
 public class Player extends Actor{
     int weaponDamage; //weapon damage
